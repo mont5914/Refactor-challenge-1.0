@@ -5,7 +5,7 @@ body {
 
 .top-navigation {
   width: 100%;
-  line-height:6em;
+  line-height:4em;
   height:12%;
   text-align: center;
   color: rgb(100, 150, 255);
@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-  margin-top: 5%;
+  margin-top: 2%;
   text-align: center;
 
 }
@@ -41,7 +41,7 @@ body {
 
 
 .footer {
-  margin-top: 1000px;
+  margin-top: 470px;
   text-align: center;
   color: rgb(100, 150, 255);
   
